@@ -40,8 +40,8 @@ $ npm run test:cov
 ## Product
 ```bash
 # link server
-$ 
+$ https://bizzi-challenge-tvh.onrender.com/
 
 # link doc api
-$ 
+$ https://bizzi-challenge-tvh.onrender.com/api
 ```
