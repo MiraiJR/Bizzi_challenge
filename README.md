@@ -50,10 +50,8 @@ $ npm run test:cov
 # Tài khoản đăng nhập
 - username: haotruong123
 - password: 12345678
-```bash
 # link server
 $ [LINK](https://bizzi-challenge-tvh.onrender.com)
 
 # link doc api
 $ [LINK](https://bizzi-challenge-tvh.onrender.com/api)
-```
