@@ -52,8 +52,8 @@ $ npm run test:cov
 - password: 12345678
 ```bash
 # link server
-$ https://bizzi-challenge-tvh.onrender.com/
+$ [LINK](https://bizzi-challenge-tvh.onrender.com)
 
 # link doc api
-$ https://bizzi-challenge-tvh.onrender.com/api
+$ [LINK](https://bizzi-challenge-tvh.onrender.com/api)
 ```
