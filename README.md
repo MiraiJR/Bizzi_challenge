@@ -1,3 +1,11 @@
+## Tổng kết
+Những thứ em làm được ở project này: 
+- Người dùng chưa đăng nhập thì không thể comment vào bất kỳ bài viết nào (kiểm tra jwt tồn tại + hợp lệ)
+- xác thực người dùng để có thể đăng, xóa, sửa bài viết của chính họ cũng như comment chính họ (jwt + check phải chủ post hay không)
+- tìm kiếm post dựa trên key miễn là title hoặc body chứa key là sẽ đưa ra kết quả (dùng like)
+- người dùng có thể đăng ảnh kèm theo post (multer + cloudinary)
+- viết chủ yếu bằng typescript có strictmode
+
 ## Mô tả
 ```bash
 $ Project sử dụng framework NestJS  chạy trên môi trường NodeJS.
@@ -38,6 +46,10 @@ $ npm run test:cov
 ```
 
 ## Product
+
+# Tài khoản đăng nhập
+- username: haotruong123
+- password: 12345678
 ```bash
 # link server
 $ https://bizzi-challenge-tvh.onrender.com/
